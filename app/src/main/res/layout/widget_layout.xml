@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_marginStart="8dp"
-            android:text="HL VAULT MONITOR"
+            android:text="VAULT MONITOR"
             android:textColor="#e6edf3"
             android:textSize="12sp"
             android:textStyle="bold" />
@@ -44,7 +44,7 @@
             android:maxLines="1" />
     </LinearLayout>
 
-    <View
+    <FrameLayout
         android:id="@+id/divider_head"
         android:layout_width="match_parent"
         android:layout_height="1dp"
@@ -169,7 +169,7 @@
         </LinearLayout>
     </LinearLayout>
 
-    <View
+    <FrameLayout
         android:id="@+id/divider_meta"
         android:layout_width="match_parent"
         android:layout_height="1dp"

@@ -157,7 +157,7 @@ fun WidgetConfigScreen(
         Spacer(modifier = Modifier.height(4.dp))
 
         Text(
-            text = "Enter Vault and Wallet addresses to display in your 5x3 Home Screen widget.",
+            text = "Enter Vault and Wallet addresses to display in your Home Screen widget.",
             color = TextMuted,
             fontSize = 12.sp,
             fontFamily = FontFamily.Monospace
@@ -217,7 +217,7 @@ fun WidgetConfigScreen(
 
         // Live Preview Title
         Text(
-            text = "LIVE WIDGET PREVIEW (5x3)",
+            text = "LIVE WIDGET PREVIEW",
             color = TextMuted,
             fontSize = 11.sp,
             fontWeight = FontWeight.Bold,

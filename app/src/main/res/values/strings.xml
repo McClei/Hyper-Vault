@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HL Vault Monitor</string>
-    <string name="widget_name">HL Vault Monitor 5x3</string>
+    <string name="widget_name">HL Vault Monitor</string>
     <string name="widget_description">Hyperliquid Vault Monitor widget displaying TVL, past month return %, deposits, and earnings.</string>
     <string name="title_vault_monitor">HL VAULT MONITOR</string>
     <string name="label_vault">VAULT ADDRESS</string>

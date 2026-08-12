@@ -122,7 +122,7 @@ fun HomeScreen() {
                             .background(LiveDot)
                     )
                     Text(
-                        text = "HL VAULT MONITOR",
+                        text = "VAULT MONITOR",
                         color = TextPrimary,
                         fontSize = 18.sp,
                         fontWeight = FontWeight.Bold,
@@ -139,7 +139,7 @@ fun HomeScreen() {
                         .padding(horizontal = 10.dp, vertical = 4.dp)
                 ) {
                     Text(
-                        text = "5x3 WIDGET",
+                        text = "Hyperliquid",
                         color = GreenPos,
                         fontSize = 11.sp,
                         fontWeight = FontWeight.Bold,
@@ -151,7 +151,7 @@ fun HomeScreen() {
             Spacer(modifier = Modifier.height(16.dp))
 
             Text(
-                text = "Configure your vault monitor parameters to populate the 5x3 terminal widget.",
+                text = "Configure your vault monitor parameters to populate the terminal widget.",
                 color = TextMuted,
                 fontSize = 12.sp,
                 fontFamily = FontFamily.Monospace
@@ -265,7 +265,7 @@ fun HomeScreen() {
 
             // Widget Preview Title
             Text(
-                text = "LIVE WIDGET PREVIEW (5x3 TERMINAL)",
+                text = "LIVE WIDGET PREVIEW",
                 color = TextMuted,
                 fontSize = 11.sp,
                 fontWeight = FontWeight.Bold,
@@ -293,7 +293,7 @@ fun HomeScreen() {
                     .padding(18.dp)
             ) {
                 Text(
-                    text = "HOW TO ADD 5x3 WIDGET TO HOME SCREEN",
+                    text = "HOW TO ADD WIDGET TO HOME SCREEN",
                     color = TextPrimary,
                     fontSize = 12.sp,
                     fontWeight = FontWeight.Bold,
@@ -304,8 +304,8 @@ fun HomeScreen() {
                 Text(
                     text = "1. Long press an empty area on your Android Home Screen.\n" +
                             "2. Select 'Widgets' from the menu.\n" +
-                            "3. Search for 'HL Vault Monitor'.\n" +
-                            "4. Drag the 5x3 widget onto your Home Screen.\n" +
+                            "3. Search for 'Vault Monitor'.\n" +
+                            "4. Drag the widget onto your Home Screen.\n" +
                             "5. Confirm your Vault and Wallet addresses.",
                     color = TextMuted,
                     fontSize = 12.sp,

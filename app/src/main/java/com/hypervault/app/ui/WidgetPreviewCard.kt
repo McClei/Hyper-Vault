@@ -93,7 +93,7 @@ fun WidgetPreviewCard(
                             .background(LiveDot)
                     )
                     Text(
-                        text = "HL VAULT MONITOR",
+                        text = "VAULT MONITOR",
                         color = TextPrimary,
                         fontSize = 13.sp,
                         fontWeight = FontWeight.Bold,

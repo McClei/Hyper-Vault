@@ -1,6 +1,6 @@
 {
-  "name": "HL Vault Monitor",
-  "description": "Hyperliquid Vault Monitor widget for Android - 5x3 Terminal skin displaying TVL, return, deposits, and earnings.",
+  "name": "Vault Monitor",
+  "description": "Hyperliquid Vault Monitor widget for Android - Terminal skin displaying TVL, return, deposits, and earnings.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
