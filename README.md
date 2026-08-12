@@ -4,6 +4,12 @@ A clean, high-contrast, terminal-styled Android Home Screen Widget for monitorin
 
 ---
 
+### 📲 **[📥 Download Latest Release APK](https://github.com/McClei/Hyper-Vault/actions/runs/31578904429/artifacts/9134355779)**
+
+> **Note**: Click the link above to download the pre-compiled, signed Android Release APK directly from GitHub Actions.
+
+---
+
 ## 📌 Overview
 
 **Vault Monitor** allows Hyperliquid traders and liquidity providers to track vault performance and personal position metrics directly from their Android Home Screen without needing to open a browser or log in. 
