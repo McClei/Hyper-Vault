@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HL Vault Monitor</string>
+    <string name="widget_name">HL Vault Monitor 5x3</string>
+    <string name="widget_description">Hyperliquid Vault Monitor widget displaying TVL, past month return %, deposits, and earnings.</string>
+    <string name="title_vault_monitor">HL VAULT MONITOR</string>
+    <string name="label_vault">VAULT ADDRESS</string>
+    <string name="label_wallet">WALLET ADDRESS</string>
+    <string name="hint_vault">0x…</string>
+    <string name="hint_wallet">0x…</string>
+    <string name="button_save">Save Configuration</string>
+    <string name="button_fetch">Test API Signal</string>
+    <string name="signal_lost">⚠ SIGNAL LOST</string>
+    <string name="tvl_label">TVL</string>
+    <string name="return_label">Past month return</string>
+    <string name="deposits_label">Your deposits</string>
+    <string name="earned_label">All-time earned</string>
+    <string name="auto_refresh_notice">UPDATED %1$s · AUTO-REFRESH HOURLY ⟳</string>
+</resources>
